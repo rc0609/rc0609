@@ -8,7 +8,7 @@ UI/UX Design, Backend Development, or Full-Stack Development to take the next st
 $ unlock Ramisha-s About me
 Access granted! 🎉
 ```
-<img align="right" src="./assets/mygif.gif" width="200" alt="Ramisha GIF"/>
+<img align="right" src="./assets/mygif.gif" width="320" alt="Ramisha GIF"/>
 
 <div align="left">
 
