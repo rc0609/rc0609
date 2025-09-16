@@ -8,6 +8,9 @@ UI/UX Design, Backend Development, or Full-Stack Development to take the next st
 $ unlock Ramisha-s About me
 Access granted! 🎉
 ```
+<img align="right" src="./assets/mygif.gif" width="200" alt="Ramisha GIF"/>
+
+<div align="left">
 
 ***🎓 Hunter College CS Alum (Graduated in December 2024) <br>
 🤗 Community member of CodePath <br>
@@ -15,6 +18,8 @@ Access granted! 🎉
 🎮 Listening to music && playing game && editing <br>
 ❤️ KPOP && Anime && Kdrama && Harry Potter <br>
 🗣 Bengali (Native) && Japanese (Fluent/Bilingual) && Korean (Intermediate)***
+
+</div>
 
 ```bash
 $ unlock Ramisha-s tech stacks
