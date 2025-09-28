@@ -37,12 +37,12 @@ const ramisha = {
 }
 ```
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rc0609&layout=compact&theme=radical)
+
 ```bash
 $ unlock Ramisha-s contact information
 Access granted! 🎉
 ```
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rc0609&layout=compact&theme=radical)
 
 [🔗 LinkedIn](https://www.linkedin.com/in/ramisha-chowdhury-tech/)  
 [✉️ Gmail](mailto:ramisha.c@gmail.com)
