@@ -1,8 +1,9 @@
 **Hey! I am Ramisha👋 Welcome to my coding universe🌟💚**
 
-I'm passionate about creating user-friendly, aesthetic, and seamless interfaces that enhance people's lives and 
-provide exceptional digital experiences. Currently seeking a full-time role in Frontend Development, 
-UI/UX Design, Backend Development, or Full-Stack Development to take the next step towards my dream career🌌
+I’m passionate about turning raw data into clear stories, meaningful insights, and intuitive visualizations that help people make confident decisions. 
+I love blending analytical thinking with creativity, whether that’s building dashboards, cleaning messy datasets, or designing user‑friendly interfaces.
+Currently seeking opportunities in Data Analytics, Business Intelligence, or Data‑Driven Product roles where I can grow, contribute, 
+and continue exploring the intersection of data, design, and problem‑solving 🌌
 
 ```bash
 $ unlock Ramisha-s About me
@@ -13,6 +14,7 @@ Access granted! 🎉
 <div align="left">
 
 ***🎓 Hunter College CS Alum (Graduated in December 2024) <br>
+📊 COOP Data Analytics Fellow <br>
 🤗 Community member of CodePath <br>
 ☁️ ENFJ <br>
 🎮 Listening to music && playing game && editing <br>
@@ -27,7 +29,16 @@ Access granted! 🎉
 ```
 
 ```bash
-const ramisha = {
+const ramisha_data_analytics = {
+  programmingLanguages_visualization: ["Python", "SQL", "Excel (Pivot Table and Vlookup)", "Tableau"]
+  tools: ["Microsoft Office", "Google Workplacee", "BigQuery"]
+  certifications: [
+    "Google Data Analytics Professional Certificate",
+    "Google AI Essentials Specialization Professional Certificate"
+  ]
+}
+
+const ramisha_webdev = {
   programmingLanguages: ["Python", "HTML", "CSS", "JavaScript", "C++"],
   frameworksAndLibraries: ["React", "Node.js"],
   tools: ["Postman", "Git", "Figma", "Adobe", "Linux terminal"],
